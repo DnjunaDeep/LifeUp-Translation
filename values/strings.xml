@@ -1244,9 +1244,9 @@
     <string name="basic_task_desc">Basic</string>
     <string name="workday_task_desc">WorkDay</string>
     <string name="special_task_desc">Special</string>
-    <string name="basic_task_desc_detail">Basic Definitions:\nDeadline: The deadline of the repeat cycle. This is not the end condition of the task. (Same for the Start Time)\nThe deadline of a daily task should be set to [Today] while the deadline of a weekly task should be set to [Weekend].\n\nRepeat Frequency: Daily, Weekly, Monthly etc.\nWhen repeating a task, its start time and deadline will be calculated by the repeat frequency.\n\nFor example, when repeating a weekly task, its next start time will be 7 days after the current start time; same for the deadline.\nIn most cases, you can just set up the deadline and the repeat frequency, and the start time will be auto-calculated.</string>
+    <string name="basic_task_desc_detail">Basic Definitions:\nDeadline: The deadline of the repeat cycle. This is not the end condition of the task. (Same for the Start Time)\nThe deadline of a daily task should be set to [Today] while the deadline of a weekly task should be set to [Weekend].\n\nRepeat Frequency: Daily, Weekly, Monthly etc.\nWhen repeating a task, its start time and deadline will be calculated by the repeat frequency.\n\nFor example, when repeating a weekly task, its next start time will be 7 days after the current start time; same for the deadline.\nIn most cases, you can just set up the deadline and repeat frequency, and the start time will be auto-calculated.</string>
     <string name="weekly_task_desc_detail">How to set up a weekly task starting on [Monday], ending on [Sunday]:\n\nStep 1. Set the \"Repeat Frequency\" to [Weekly]\n\nStep 2. Set the \"Deadline\" to [Weekend] (Sunday)</string>
-    <string name="weekday_task_desc_detail">How to set up a task to occur on specific days of the week:\n\nStep 1. Set the \"Repeat Frequency\" to [Daily]\n\nStep 2. Tap the \"Ignore\" button to set the days of the week on which the task should occur</string>
+    <string name="weekday_task_desc_detail">How to set up a task to occur on specific days of the week:\n\nStep 1. Set the \"Repeat Frequency\" to [Daily]\n\nStep 2. Tap the \"Ignore\" button to set the days of the week on which the task will occur</string>
     <string name="special_task_desc_detail">How to set up a special task (e.g., daily task starting at 4:00 on the first day, with a deadline at 18:00 on the second day):\n\nStep 1. Tap the [More Options] Button to show up the start time options\n\nStep 2. Set the [Start Time] to the date of first day of the repeat, and set the time to \"4:00\"\n\nStep 3. Set the [Deadline] to the date of the day after the [Start Time] day, and then tap the [Time] options the set the specific time to \"18:00\"\n\nStep 4. Set the \"Repeat Frequency\" to [Daily]</string>
     <string name="dialog_shop_item_select_title">Select</string>
     <string name="reward_shop_item">Shop Item</string>
@@ -1273,7 +1273,7 @@
     <string name="setting_display_hide_me_desc">Hide "Me" module on the Bottom Navigation.</string>
     <string name="relaunch_item">Relaunch</string>
     <string name="relaunch_success">Relaunch successful</string>
-    <string name="auto_backup_conflict_download">Local data will be overwritten with the data that has been backed up to the servers.\n\nYou can undo this action on the backup settings page later.</string>
+    <string name="auto_backup_conflict_download">Local data will be overwritten with the data that has been backed up to the servers.\n\nYou can undo this action in the backup settings page later.</string>
     <string name="auto_backup_conflict_upload">Local data will be backed up to the remote server.\n\nThe current backup data on the server will be overwritten.</string>
     <string name="auto_backup_title_sync">Sync</string>
     <string name="auto_backup_last_sync_time">Last sync time: %1$s</string>
