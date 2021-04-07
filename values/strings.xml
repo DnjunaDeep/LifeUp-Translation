@@ -1361,7 +1361,7 @@
     <string name="pomodoro_notification_skip">Skip</string>
     <string name="hint_scroll_to_bottom_more_settings">There are more settings below: scroll down!</string>
     <string name="setting_custom_enable_sound_effect">Enable Sound Effects</string>
-    <string name="setting_custom_enable_sound_effect_desc">Enable sound effects. The volume can be set by the system media volume.</string>
+    <string name="setting_custom_enable_sound_effect_desc">Enable sound effects. Volume can be set by the system media volume.</string>
     <string name="dialog_select_local_pictures_btn">Select local pictures</string>
     <string name="btn_change_icon">Change icon</string>
     <string name="default_coin_sub_task">Default Coin Number for SubTasks</string>
