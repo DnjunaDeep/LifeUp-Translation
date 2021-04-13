@@ -1439,7 +1439,7 @@
     <string name="tab_market">Market</string>
     <string name="til_import_price">Price</string>
     <string name="dialog_share_goods_title">Share Item</string>
-    <string name="dialog_share_goods_desc">Do you really want to share the item?\nhint: now you can share loot box effects.\nBut you need to share the items inside the loot boxes first to make it work.</string>
+    <string name="dialog_share_goods_desc">Do you really want to share this item?\nhint: now you can share loot box effects.\nBut you need to share the items inside the loot boxes first to make it work.</string>
     <string name="share_to_market">Share</string>
     <string name="shop_share_success">Shared successfully</string>
     <string name="shop_share_fail">Share failed</string>
