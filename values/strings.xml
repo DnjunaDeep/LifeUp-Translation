@@ -1478,7 +1478,7 @@
     <string name="btn_quit">QUIT</string>
     <string name="setting_display_night_mode_follow_system">Follow system\'s dark theme</string>
     <string name="setting_display_night_mode_follow_system_desc">Make the application\'s night mode follow the system\'s night mode/dark theme setting.</string>
-    <string name="setting_display_night_mode_follow_system_toast">Need to restart the app to make the change.\nAuto-restarting..</string>
+    <string name="setting_display_night_mode_follow_system_toast">Need to restart the app to apply the change.\nAuto-restarting..</string>
     <string name="hint_board_follow">Follow some users, and try to life-up each other!</string>
     <string name="sample_shop_item_name">Sample: Watch a movie</string>
     <string name="sample_shop_item_desc">reward yourself with watching a movie\nHint: Long press the item to show the menu.</string>
@@ -1511,7 +1511,7 @@
     <string name="add_user_achievement_unlock_condition">Unlock Condition</string>
     <string name="condition_total_completed_times">Total completion times of a task</string>
     <string name="condition_completed_streak_task">Completion streak of a task</string>
-    <string name="condition_reach_level">An attribute reaches the specified level</string>
+    <string name="condition_reach_level">An attribute reaches to the specified level</string>
     <string name="condition_total_gained_tomatoes">Total number of tomatoes gained</string>
     <string name="condition_using_days">Using days of LifeUp</string>
     <string name="condition_gained_like_count">Gained LIKE count</string>
